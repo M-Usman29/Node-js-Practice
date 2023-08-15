@@ -1,3 +1,4 @@
+/*
 const http = require("http");
 const fs =require('fs');
 
@@ -20,3 +21,4 @@ const server= http.createServer((req,res)=>{
 server.listen(port,()=>{
     console.log('Server is lstening on port ',port);
 })
+*/
